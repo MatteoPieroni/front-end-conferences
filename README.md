@@ -143,6 +143,10 @@ Copenhagen, **Denmark**
 24-25 October 2019  
 Milan, **Italy**  
 
+[**React Advanced London**](https://reactadvanced.com/)  
+25 October 2019  
+London, **United Kingdom**  
+
 [**ReactiveConf**](https://reactiveconf.com/)  
 30 October-1 November 2019  
 Prague, **Czech Republic**
